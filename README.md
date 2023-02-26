@@ -2,7 +2,7 @@
 
 # EEE3088F Group Project
 
-Welcome to our **EEE3088F Group Project** repository! This repository contains all the project files for our HAT designed for the STM32F0 microcontroller. The HAT is equipped with a temperature and humidity sensor to monitor external environmental conditions. The HAT allows users to set the range of acceptable temperature and humidity values, and will immediately alert the user if the conditions fall outside of this range. 
+Welcome to our **EEE3088F Group Project** repository! This repository contains all the project files for our HAT designed for the STM32F0 microcontroller. 
 
 ## 🚀 Project Overview
 
