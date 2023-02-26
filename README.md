@@ -18,9 +18,10 @@ The HAT is designed to attach to the STM32F051C6T6 microcontroller. The board in
 
 This project is being developed by three contributors:
 
+- Queto Jenkins (Power Module)
 - Matt Pettit (Coding and Microcontroller Interfacing)
 - Holly Lewis (Sensor Module)
-- Queto Jenkins (Power Module)
+
 
 ## 📁 Repository Contents
 
