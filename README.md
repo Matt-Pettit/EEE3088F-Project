@@ -6,7 +6,7 @@ Welcome to our **EEE3088F Group Project** repository! This repository contains a
 
 ## 🚀 Project Overview
 
-The primary functionality of the HAT is to monitor external environmental conditions using an analogue hygrometer and a digital temperature sensor. 
+The primary functionality of the HAT is to monitor external environmental conditions using a digital Temperature and Humidity Sensor, along with an analogue light sensor (LDR)
 
 This HAT has a wide range of potential applications. It would be particularly useful in monitoring for satisfactory growth conditions of plants in an agricultural setting. Secondly, the HAT may aid with maintaining optimum food and beverage storage conditions and therein reducing the amount of consumables that perish. Lastly, the HAT may be set to trigger air conditioning units and dehumidifiers in hospitals such that the patients may recuperate in a steady environment. 
 
