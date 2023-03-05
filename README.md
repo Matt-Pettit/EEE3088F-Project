@@ -32,6 +32,7 @@ This repository contains the following files and folders:
 - `Design-files`: folder containing the design files for the HAT
 - `Source-code`: folder containing the source code for the HAT
 - `LICENSE`: file containing license information
+- `Bill Of Materials.xlsx`: BOM for this project
 
 ## 📝 License
 
