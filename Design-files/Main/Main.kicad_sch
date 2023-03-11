@@ -4,10 +4,22 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Main Schematic")
+    (date "2023-03-11")
+    (rev "2")
+    (comment 2 "Holly Lewis, Queto Jenkins, Matt Pettit")
+    (comment 3 "Authors: Group 29")
+  )
+
   (lib_symbols
   )
 
 
+  (label "BatterySense" (at 219.075 75.565 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 02919116-9fa5-4596-bfb9-2de7a20f3efd)
+  )
   (label "DigitalSensorSCL" (at 88.265 146.685 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 060ee205-e406-41b0-8c25-c9e1c44a4e26)
@@ -23,6 +35,10 @@
   (label "Regulated 3v3" (at 87.63 50.8 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4df61c4c-7028-43b9-a236-34df8ebdcc1f)
+  )
+  (label "BatterySense" (at 88.265 160.655 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 962f7376-4cdf-4135-8857-8f8d5aabe82e)
   )
   (label "USB 5V" (at 219.075 24.765 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -92,6 +108,10 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid ec1f418d-2b9d-47dc-bc53-8ba33a9ce2fc)
     )
+    (pin "BatterySense" input (at 88.265 160.655 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid a17f6873-87cb-46bf-afe7-2a3934bd588c)
+    )
     (instances
       (project "Main"
         (path "/1e9f3d34-a4c0-4684-8b0d-9d61663dabf9" (page "3"))
@@ -113,10 +133,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid ef47fdef-5ab0-4df3-a57e-02340130127a)
     )
-    (pin "USB 5V" input (at 219.075 24.765 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 786bd791-0b5d-463f-99b0-20404abd6e2a)
-    )
     (pin "DigitalSensorSDA" input (at 219.075 67.31 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 193d6a55-df4a-4d51-b880-9e0e9761a201)
@@ -124,6 +140,14 @@
     (pin "DigitalSensorSCL" input (at 219.075 62.865 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid fbf089cd-f62b-49f6-bca5-5a5e6eea0174)
+    )
+    (pin "BatterySense" input (at 219.075 75.565 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 99bde966-ff30-43ec-a624-b7447e208415)
+    )
+    (pin "USB 5V" input (at 219.075 24.765 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 551afaa0-1d35-4385-a92d-21e13ab02e58)
     )
     (instances
       (project "Main"
