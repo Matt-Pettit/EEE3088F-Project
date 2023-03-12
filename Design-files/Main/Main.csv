@@ -1,29 +1,28 @@
-#,Reference,Qty,Value,Footprint,DNP
-1,BT1,1,Battery_Cell,Battery:BatteryHolder_Keystone_1042_1x18650,
-2,C1,1,10 uF,Capacitor_SMD:C_0201_0603Metric,
-3,"C2, C5, C6",3,1 uF,Capacitor_SMD:C_0201_0603Metric,
-4,"C3, C4",2,0.1 uF,Capacitor_SMD:C_0201_0603Metric,
-5,C7,1,10 uF,Capacitor_SMD:C_0201_0603Metric,
-6,"C8, C9",2,0.1uF,Capacitor_SMD:C_0201_0603Metric,
-7,ChargingStatusLED1,1,LED,LED_SMD:LED_0805_2012Metric,
-8,D1,1,D_Schottky,Diode_SMD:D_SMA,
-9,J1,1,USB_B_Micro,Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal,
-10,J2,1,Battery  Jumper,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
-11,"J3, J6",2,Conn_01x24_Pin,Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical,
-12,"J4, J5",2,Conn_01x24_Socket,Connector_PinSocket_2.54mm:PinSocket_1x24_P2.54mm_Vertical,
-13,J7,1,Conn_01x10_Pin,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
-14,J8,1,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,
-15,"J9, J13",2,Conn_01x02_Pin,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
-16,R1,1,1000,Resistor_SMD:R_0201_0603Metric,
-17,"R2, R3",2,100K,Resistor_SMD:R_0201_0603Metric,
-18,R4,1,10K,Resistor_SMD:R_0201_0603Metric,
-19,R5,1,700,Resistor_SMD:R_0201_0603Metric,
-20,"R6, R7, R8, R9, R10, R13, R14, R15, R16, R17, R18, R21, R22, R23, R24, R25, R26",17,0,Resistor_SMD:R_0201_0603Metric,
-21,"R11, R12, R19, R20",4,4700,Resistor_SMD:R_0201_0603Metric,
-22,Rprog1,1,2000,Resistor_SMD:R_0201_0603Metric,
-23,U1,1,CH340C,Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm,
-24,U2,1,CAT24C256,Package_TO_SOT_SMD:SOT-89-3,
-25,U4,1,LTC4054ES5-4.2,Package_TO_SOT_SMD:TSOT-23-5,
-26,U5,1,AHT21,Package_DFN_QFN:DFN-6-1EP_3x3mm_P1mm_EP1.65x2.55mm,
-27,U6,1,TPS2115A-Q1,Package_TO_SOT_SMD:TSOT-23-8,
-28,U7,1,RT9073A,,
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","BT1","1","Battery_Cell","Battery:BatteryHolder_Keystone_1042_1x18650",""
+"2","C1, C7","2","10 uF","Capacitor_SMD:C_0201_0603Metric",""
+"3","C2, C5, C6","3","1 uF","Capacitor_SMD:C_0201_0603Metric",""
+"4","C3, C4","2","0.1 uF","Capacitor_SMD:C_0201_0603Metric",""
+"5","C8, C9","2","0.1uF","Capacitor_SMD:C_0201_0603Metric",""
+"6","ChargingStatusLED1","1","LED","LED_SMD:LED_0805_2012Metric",""
+"7","D1","1","D_Schottky","Diode_SMD:D_SMA",""
+"8","J1","1","USB_B_Micro","Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal",""
+"9","J2","1","Battery  Jumper","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"10","J3, J6","2","Conn_01x24_Pin","Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical",""
+"11","J4, J5","2","Conn_01x24_Socket","Connector_PinSocket_2.54mm:PinSocket_1x24_P2.54mm_Vertical",""
+"12","J7","1","Conn_01x10_Pin","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical",""
+"13","J8","1","Conn_01x04_Pin","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"14","J9, J13","2","Conn_01x02_Pin","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"15","R1, Rprog1","2","1000","Resistor_SMD:R_0201_0603Metric",""
+"16","R2, R3","2","100K","Resistor_SMD:R_0201_0603Metric",""
+"17","R4","1","10K","Resistor_SMD:R_0201_0603Metric",""
+"18","R5","1","700","Resistor_SMD:R_0201_0603Metric",""
+"19","R6, R7, R8, R9, R10, R13, R14, R15, R16, R17, R18, R21, R22, R23, R24, R25, R26","17","0","Resistor_SMD:R_0201_0603Metric",""
+"20","R11, R12","2","10000","Resistor_SMD:R_0201_0603Metric",""
+"21","R19, R20","2","4700","Resistor_SMD:R_0201_0603Metric",""
+"22","U1","1","CH340C","Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm",""
+"23","U2","1","CAT24C256","Package_TO_SOT_SMD:SOT-89-3",""
+"24","U3","1","SHTC3","Sensor_Humidity:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm",""
+"25","U4","1","LTC4054ES5-4.2","Package_TO_SOT_SMD:TSOT-23-5",""
+"26","U6","1","TPS2115A-Q1","Package_TO_SOT_SMD:TSOT-23-8",""
+"27","U7","1","RT9073A","REG_RT9080-33GQZ:REG_RT9080-33GQZ",""
