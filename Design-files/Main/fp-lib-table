@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "REG_RT9080-33GQZ")(type "KiCad")(uri "${KIPRJMOD}/REG_RT9080-33GQZ")(options "")(descr ""))
+)
