@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.1"
+      "Version": "7.0.1-0"
     },
-    "CreationDate": "2023-03-21T02:42:10+02:00"
+    "CreationDate": "2023-04-13T21:49:41+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "V01"
     },
     "Size": {
-      "X": 0.0,
-      "Y": 0.0
+      "X": 99.5672,
+      "Y": 90.4994
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -41,6 +41,16 @@
     {
       "Path": "Main-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Main-F_Adhesive.gbr",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Main-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
       "FilePolarity": "Positive"
     },
     {
