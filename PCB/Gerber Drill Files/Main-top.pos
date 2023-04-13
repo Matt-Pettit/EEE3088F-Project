@@ -1,0 +1,63 @@
+### Footprint positions - created on 2023 April 13, Thursday 21:55:09 ###
+### Printed by KiCad version 7.0.1-0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                Package                                          PosX       PosY       Rot  Side
+BT1        Battery_Cell       BatteryHolder_Keystone_1042_1x18650          105.4100   -91.1100  -90.0000  top
+C1         10_uF              C0603                                        119.7500   -58.8808  -90.0000  top
+C2         1_uF               C0402                                        135.0909   -48.9288  180.0000  top
+C3         0.1_uF             C1206                                        168.7500   -52.9926  -90.0000  top
+C4         0.1_uF             C1206                                        157.9194   -57.4040    0.0000  top
+C5         0.1uF              C1206                                        169.1100  -129.3630  180.0000  top
+C6         0.1uF              C1206                                        177.8146  -129.8710  180.0000  top
+C7         10_uF              C0603                                        187.4520   -81.4720   90.0000  top
+C8         0.1uF              C_0201_0603Metric                            166.6460  -126.6330  180.0000  top
+C10        1_uF               C0402                                        177.1769   -55.1700  180.0000  top
+C11        1_uF               C0402                                        177.1769   -61.2660    0.0000  top
+D1         D_Schottky         SMA_L4.2-W2.6-LS5.3-RD                       119.8500   -52.6154   90.0000  top
+J1         USB_B_Micro        USB_Mini-B_Lumberg_2486_01_Horizontal        142.2400  -130.5560    0.0000  top
+J2         Battery__Jumper    PinHeader_1x02_P2.54mm_Vertical              116.3320   -49.7840  180.0000  top
+J3-Left1   Conn_01x24_Pin     PinHeader_1x24_P2.54mm_Vertical              120.4000   -69.3600    0.0000  top
+J4-Left1   Conn_01x24_Socket  PinSocket_1x24_P2.54mm_Vertical              133.0200   -69.3400    0.0000  top
+J5-Right1  Conn_01x24_Socket  PinSocket_1x24_P2.54mm_Vertical              151.6000   -69.3400    0.0000  top
+J6-Right1  Conn_01x24_Pin     PinHeader_1x24_P2.54mm_Vertical              163.4000   -69.3400    0.0000  top
+J7         Conn_01x10_Pin     PinHeader_1x10_P2.54mm_Vertical              169.1640   -71.1200    0.0000  top
+J8         Conn_01x04_Pin     PinHeader_1x04_P2.54mm_Vertical              183.8960   -49.2760  -90.0000  top
+J9         Conn_01x02_Pin     PinHeader_1x02_P2.54mm_Vertical              179.8320   -94.4880   90.0000  top
+J13        Conn_01x02_Pin     PinHeader_1x02_P2.54mm_Vertical              184.3500  -111.0750    0.0000  top
+R1         1k                 R1206                                        124.9680   -48.9288  180.0000  top
+R2         100K               R_0201_0603Metric                            116.8400   -64.8610   90.0000  top
+R3         100K               R_0201_0603Metric                            118.1760   -66.0400  180.0000  top
+R4         700                R0603                                        162.3966   -51.9500  180.0000  top
+R5         10K                R0805                                        163.0680   -59.9440  180.0000  top
+R6         0                  R0402                                        144.8552   -47.2440    0.0000  top
+R7         0                  R0402                                        154.4672   -61.9360  180.0000  top
+R8         0                  R0402                                        170.5672   -61.5500    0.0000  top
+R9         0                  R0402                                        167.6100  -115.0890  180.0000  top
+R10        0                  R0402                                        138.0000   -58.0000    0.0000  top
+R11        10k                R0805                                        183.2400   -82.5840  180.0000  top
+R12        10k                R0805                                        183.2400   -79.5360  180.0000  top
+R13        0                  R0402                                        179.0580   -90.3360    0.0000  top
+R14        0                  R0402                                        183.1220   -90.3360    0.0000  top
+R15        0                  R0402                                        187.1610   -90.3360    0.0000  top
+R16        0                  R0402                                        134.1500   -58.0000    0.0000  top
+R17        0                  R0402                                        140.7160  -111.2520    0.0000  top
+R18        0                  R0402                                        140.7160  -108.2040    0.0000  top
+R19        4.7k               R0402                                        146.3040  -111.3272  -90.0000  top
+R20        4.7k               R0402                                        146.3040  -106.6800  -90.0000  top
+R21        0                  R0402                                        143.3312  -122.9360    0.0000  top
+R22        0                  R0402                                        166.9132  -117.9830  180.0000  top
+R23        0                  R0402                                        184.6960  -125.7658   90.0000  top
+R24        0                  R0402                                        169.1852  -112.5990    0.0000  top
+R25        0                  R0402                                        180.1960  -113.3158  -90.0000  top
+R27        0                  R0402                                        123.9500   -61.5328   90.0000  top
+R28        0                  R0402                                        183.4928   -53.2960  180.0000  top
+Rprog1     1k                 R1206                                        135.1732   -52.4848    0.0000  top
+StatusLED  LED                LED0805-RD                                   130.4720   -48.9289    0.0000  top
+U1         CH340C             SOP-16_L10.0-W3.9-P1.27-LS6.0-BL             176.6360  -122.8860    0.0000  top
+U3         SHTC3              Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm   183.3510   -69.5000  180.0000  top
+U4         LTC4054ES5-4.2     TSOT-23-5                                    129.4185   -53.5668    0.0000  top
+U5         RT9073A-33GQZ      ZQFN-4L_L1.0-W1.0-P0.63-BL-EP                176.9631   -58.4000    0.0000  top
+U6         TPS2115ADRBR       SON-8_L3.0-W3.0-P0.65-LS3.0-BL-EP            162.6841   -54.8900   90.0000  top
+U7         M24C64-RMN6TP      SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL              143.4211  -118.4910  -90.0000  top
+## End

@@ -1,0 +1,18 @@
+Info: Front (top side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/Design-files/Main/Main-top.pos'.
+Info: Component count: 57.
+Info: Back (bottom side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/Design-files/Main/Main-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 57.
+Info: File generation successful.
+Info: Front (top side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/PCB/Gerber Drill Files/Main-top.pos'.
+Info: Component count: 57.
+Info: Back (bottom side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/PCB/Gerber Drill Files/Main-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 57.
+Info: File generation successful.
+Info: Front (top side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/PCB/Gerber Drill Files/Main-top.pos'.
+Info: Component count: 57.
+Info: Back (bottom side) placement file: '/Users/queto/UNIVERSITY/Third Year/First Semester/EEE3088F/EEE3088F-Project/PCB/Gerber Drill Files/Main-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 57.
+Info: File generation successful.
