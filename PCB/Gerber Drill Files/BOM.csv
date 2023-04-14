@@ -1,29 +1,22 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C3,C4";"C1206";2;"0.1 uF";;;
-2;"U4";"TSOT-23-5";1;"LTC4054ES5-4.2";;;
-3;"R9,R23,R13,R14,R28,R24,R10,R22,R7,R27,R18,R8,R15,R25,R6,R21,R17,R16";"R0402";18;"0";;;
-4;"R4";"R0603";1;"700";;;
-5;"C1,C7";"C0603";2;"10 uF";;;
-6;"R19,R20";"R0402";2;"4.7k";;;
-7;"C2,C10,C11";"C0402";3;"1 uF";;;
-8;"J13,J9";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02_Pin";;;
-9;"U6";"SON-8_L3.0-W3.0-P0.65-LS3.0-BL-EP";1;"TPS2115ADRBR";;;
-10;"C8";"C_0201_0603Metric";1;"0.1uF";;;
-11;"Rprog1,R1";"R1206";2;"1k";;;
-12;"J3-Left1,J6-Right1";"PinHeader_1x24_P2.54mm_Vertical";2;"Conn_01x24_Pin";;;
-13;"U1";"SOP-16_L10.0-W3.9-P1.27-LS6.0-BL";1;"CH340C";;;
-14;"C6,C5";"C1206";2;"0.1uF";;;
-15;"StatusLED";"LED0805-RD";1;"LED";;;
-16;"BT1";"BatteryHolder_Keystone_1042_1x18650";1;"Battery_Cell";;;
-17;"R12,R11";"R0805";2;"10k";;;
-18;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"Battery  Jumper";;;
-19;"J8";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
-20;"U3";"Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm";1;"SHTC3";;;
-21;"R2,R3";"R_0201_0603Metric";2;"100K";;;
-22;"J4-Left1,J5-Right1";"PinSocket_1x24_P2.54mm_Vertical";2;"Conn_01x24_Socket";;;
-23;"J1";"USB_Mini-B_Lumberg_2486_01_Horizontal";1;"USB_B_Micro";;;
-24;"J7";"PinHeader_1x10_P2.54mm_Vertical";1;"Conn_01x10_Pin";;;
-25;"U7";"SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL";1;"M24C64-RMN6TP";;;
-26;"R5";"R0805";1;"10K";;;
-27;"U5";"ZQFN-4L_L1.0-W1.0-P0.63-BL-EP";1;"RT9073A-33GQZ";;;
-28;"D1";"SMA_L4.2-W2.6-LS5.3-RD";1;"D_Schottky";;;
+"Id","Designator","Footprint","Quantity","Designation","Supplier and ref",
+1,"C3,C4","C1206",2,"0.1 uF",,,
+2,"U4","TSOT-23-5",1,"LTC4054ES5-4.2",,,
+3,"R9,R23,R13,R14,R28,R24,R10,R22,R7,R27,R18,R8,R15,R25,R6,R21,R17,R16","R0402",18,"0",,,
+4,"R4","R0603",1,"700",,,
+5,"C1,C7","C0603",2,"10 uF",,,
+6,"R19,R20","R0402",2,"4.7k",,,
+7,"C2,C10,C11","C0402",3,"1 uF",,,
+8,"U6","SON-8_L3.0-W3.0-P0.65-LS3.0-BL-EP",1,"TPS2115ADRBR",,,
+9,"C8","C_0201_0603Metric",1,"0.1uF",,,
+10,"Rprog1,R1","R1206",2,"1k",,,
+11,"U1","SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",1,"CH340C",,,
+12,"C6,C5","C1206",2,"0.1uF",,,
+13,"StatusLED","LED0805-RD",1,"LED",,,
+14,"R12,R11","R0805",2,"10k",,,
+15,"U3","Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm",1,"SHTC3",,,
+16,"R2,R3","R_0201_0603Metric",2,"100K",,,
+17,"J1","USB_Mini-B_Lumberg_2486_01_Horizontal",1,"USB_B_Micro",,,
+18,"U7","SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",1,"M24C64-RMN6TP",,,
+19,"R5","R0805",1,"10K",,,
+20,"U5","ZQFN-4L_L1.0-W1.0-P0.63-BL-EP",1,"RT9073A-33GQZ",,,
+21,"D1","SMA_L4.2-W2.6-LS5.3-RD",1,"D_Schottky",,,
